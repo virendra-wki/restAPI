@@ -1,0 +1,45 @@
+[
+ {
+  "name": "iphone",
+  "price": 154,
+  "featured": true,
+  "company": "apple"
+ },
+ {
+    "name": "iphone10",
+    "price": 153,
+    "featured": true,
+    "company": "apple"
+ },
+{
+    "name": "iphone9",
+    "price": 152,
+    "featured": true,
+    "company": "apple"
+},
+{
+    "name": "samsung",
+    "price": 1520,
+    "featured": true,
+    "company": "samsung"
+},
+{
+    "name": "samsung s1",
+    "price": 15201,
+    "featured": true,
+    "company": "samsung"
+},
+{
+    "name": "redmi note 11",
+    "price": 15,
+    "featured": true,
+    "company": "mi"
+},
+{
+    "name": "dell 10",
+    "price": 17000,
+    "featured": true,
+    "company": "dell"
+}
+
+]
